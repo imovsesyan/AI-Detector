@@ -62,7 +62,7 @@ POST /predict
   "label": "human",
   "score": 0.73
 }
-
+```
 ## Dataset
 
 The dataset includes:
@@ -93,7 +93,7 @@ To train the model:
 
 ```bash
 python src/train.py
-
+```
 ## Performance
 
 Accuracy: **XX%**  
